@@ -37,7 +37,7 @@ A self assessment test carefully created in the beginning will lead you through 
 
 ## Demo video
 
-[![Watch the video](https://github.com/sahajoydeep2002/Alive/blob/main/earth.jpeg)](https://youtu.be/wEM6DmTyWJs)
+[![Watch the video](https://github.com/sahajoydeep2002/Alive/blob/main/earth.jpeg)](https://youtu.be/oUE0RY4sowo)
 
 ## The architecture
 Recommendation System Architecture
